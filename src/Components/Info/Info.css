@@ -1,0 +1,19 @@
+.info{
+  padding: 0 10px;
+  color: #fff;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.info__text{
+  color: #DCDCDC;
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+.info__title{
+  margin-bottom: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+  margin-bottom: 10px;
+}

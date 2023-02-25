@@ -1,0 +1,25 @@
+
+.bio{
+  color: #fff;
+  text-align: center;
+}
+.bio__name{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 6px;
+  margin-top: 20px;
+  font-weight: 700;
+}
+.bio__position{
+  color: #F3BF99;
+  font-size: 13px;
+  line-height: 16px;
+  margin-bottom: 8px;
+  font-weight: 400;
+}
+.bio_site{
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
